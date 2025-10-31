@@ -1,3 +1,3 @@
 # Passenger Info
 
-App to extract and store passenger data from CPR identity image
+Extract and store passenger data from Bahrain CPR identity card

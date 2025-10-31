@@ -8,6 +8,7 @@
         {"fieldname": "cpr_number", "fieldtype": "Data", "label": "CPR Number"},
         {"fieldname": "date_of_birth", "fieldtype": "Date", "label": "Date of Birth"},
         {"fieldname": "nationality", "fieldtype": "Data", "label": "Nationality"},
+        {"fieldname": "gender", "fieldtype": "Data", "label": "Gender"},
         {"fieldname": "cpr_image", "fieldtype": "Attach Image", "label": "CPR Image"}
     ],
     "permissions": [
